@@ -1,4 +1,6 @@
-alexliu03.github.io
+Modern Programming
 ===================
 
-Ghost blog
+Powered by Ghost Blog.
+
+Link: <a href="alexliu03.github.io">Here</a>
